@@ -1,0 +1,7 @@
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\bin\Debug\task2.exe.config
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\bin\Debug\task2.exe
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\bin\Debug\task2.pdb
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\obj\Debug\task2.exe
+D:\Intern\C#\4. C# Professional\2. Системні колекції\HW2\task2\obj\Debug\task2.pdb
