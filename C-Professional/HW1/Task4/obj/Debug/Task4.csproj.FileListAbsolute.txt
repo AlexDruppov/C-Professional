@@ -1,0 +1,7 @@
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\bin\Debug\Task4.exe.config
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\bin\Debug\Task4.exe
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\bin\Debug\Task4.pdb
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\obj\Debug\Task4.exe
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task4\obj\Debug\Task4.pdb

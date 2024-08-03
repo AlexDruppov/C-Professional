@@ -1,0 +1,7 @@
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\bin\Debug\Task6.exe.config
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\bin\Debug\Task6.exe
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\bin\Debug\Task6.pdb
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\obj\Debug\Task6.exe
+D:\Intern\C#\4. C# Professional\1. Користувальницькі колекції\HW1\Task6\obj\Debug\Task6.pdb
